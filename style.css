@@ -6,7 +6,7 @@
 p {
   color:#49351c;
   font-family: sans-serif;
-  font-size: 20px;
+  font-size: 20 px;
   text-align: center;
 }
 
@@ -16,7 +16,7 @@ h1 {
   color: #ffacd6; 
   font-style: oblique;
   text-align: center;
-  font-size: 45px;
+  font-size: 45 px;
 }
 
 /*names of recipies*/
@@ -31,7 +31,7 @@ h2 {
 /*words under names of recipies*/
 h4 {
   font-family: sans-serif;
-  font-size: 20px;
+  font-size: 20 px;
   color: #49351c;
 }
 
@@ -39,14 +39,14 @@ h4 {
 h3 {
   font-family: cursive;
   color: #ffacd6;
-  font-size: 20px;
+  font-size: 20 px;
 }
 
 /*lists*/
 li {
   font-family: sans-serif;
   color: #afa290;
-  font-size: 20px;
+  font-size: 20 px;
 }
 
 /*images*/
@@ -55,37 +55,37 @@ li {
   display: flex;
   flex-wrap:wrap;
   justify-content: space-around;
-  margin: 20px;
+  margin: 20 px;
 }
 .desert-card {
-  width: 250px;
+  width: 250 px;
   border-style: solid;
-  border-width: 2px;
+  border-width: 2 px;
   border-color: #ffacd6;
   text-align: center;
-  margin: 10px;
+  margin: 10 px;
   align-items: center;
   flex-grow: 1;
  
 
 }
 .content {
-  padding: 10px;
+  padding: 10 px;
 
 }
 .desert-card p {
-  font-size: 17px;
+  font-size: 17 px;
 }
 .desert-card h3 {
-  margin-bottom: 10px;
+  margin-bottom: 10 px;
 
 }
 .desert-card img {
-  width: 100%;
+  width: 100 %;
   border-style:solid;
-  border-width:2px;
+  border-width:2 px;
   border-color: #afa290;
-  margin:10px;
+  margin:10 px;
 
 }
   
